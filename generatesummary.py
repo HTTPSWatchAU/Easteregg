@@ -181,7 +181,7 @@ if __name__ == '__main__':
         results += [thisResult]
         grades[idx] = [thisResult['lowGrade']]
     if TWEET:
-        tweettext = 'Taiwan Bank SSL Summary on {} -> '.format(today)
+        tweettext = 'SSL Summary on {} -> '.format(today)
         tweettext += gradesummary(grades)
         tweettext += SITE
         tweets = [tweettext]
