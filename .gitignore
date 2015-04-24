@@ -3,3 +3,4 @@
 ssllabs-scan
 *.json
 data/
+script.conf

@@ -9,3 +9,8 @@ wayback=60
 rsstitle=HTTPSWatchAU Easteregg Test
 rssdescription=List of changes in the SSL certificates
 rsslink=https://httpswatch.com.au/easteregg/ssltest.xml
+[Twitter]
+appkey=
+appsecret=
+token=
+tokensecret=
