@@ -1,6 +1,7 @@
 [Common]
 timezone=Australia/Melbourne
 datadir=data
+site=http://example.com
 [Scrape]
 ssllabsbin=../ssllabs-scan/ssllabs-scan
 [Analyze]
