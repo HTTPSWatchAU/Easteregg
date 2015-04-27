@@ -7,4 +7,4 @@ set -e
 cd "$(dirname $0)"
 
 ./runjobs.py $1
-./generatesummary.py -t -r web/twbankssl.xml > web/ssltest.json
+./generatesummary.py -t -r web/ssltest.xml > web/ssltest.json

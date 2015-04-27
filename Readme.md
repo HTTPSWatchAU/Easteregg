@@ -1,19 +1,4 @@
-twbankssl
-=========
-
-Continuous monitoring of Taiwanese banks' and other financial 
-institutions' SSL certificate quality over time.
-
-
-Design
-------
-
-This is a whishlist, will likely change as more done.
-
- * Minimal requirements
- * Scheduled running
- * Static site generator for easy hosting
- * Notification feed
+Forked from imrehg/twbankssl
 
 
 License
